@@ -49,8 +49,11 @@ To upload an audio file, follow these steps:
   - **en_US/locale.po:** English translations for the plugin text strings.
   - **es_ES/locale.po:** Spanish translations for the plugin text strings.
 
+## Development Team
+The plugin was developed by the Community Development Team of Base4. For more information, visit base4.mx. The source code is available on GitHub at https://github.com/base4-mx/audio-player-plugin.
+
 ## Support
-For support, issues, or questions, please contact pedro@base4.mx
+For support, issues, or questions, please contact hola@base4.mx
  
 (#).
 
@@ -106,8 +109,11 @@ Para subir un archivo de audio, sigue estos pasos:
   - **en_US/locale.po:** Traducciones en inglés para las cadenas de texto del plugin.
   - **es_ES/locale.po:** Traducciones en español para las cadenas de texto del plugin.
 
+## Equipo de Desarrollo
+El plugin fue desarrollado por el Equipo de Desarrollo Comunitario de Base4. Para más información, visita base4.mx. El código fuente está disponible en GitHub en https://github.com/base4-mx/audio-player-plugin.
+
 ## Soporte
-Para soporte, problemas o preguntas, por favor contacta a pedro@base4.mx
+Para soporte, problemas o preguntas, por favor contacta a hola@base4.mx
  
 (#).
 
